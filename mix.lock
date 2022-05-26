@@ -1,0 +1,5 @@
+%{
+  "eunit_formatters": {:hex, :eunit_formatters, "0.3.1", "7a6fc351eb5b873e2356b8852eb751e20c13a72fbca03393cf682b8483509573", [:rebar3], [], "hexpm", "64a40741429b7aff149c605d5a6135a48046af394a7282074e6003b3b56ae931"},
+  "mix_erlang_tasks": {:hex, :mix_erlang_tasks, "0.1.0", "36819fec60b80689eb1380938675af215565a89320a9e29c72c70d97512e4649", [:mix], [], "hexpm", "95d2839c422c482a70c08a8702da8242f86b773f8ab6e8602a4eb72da8da04ed"},
+  "mix_eunit": {:hex, :mix_eunit, "0.3.0", "0e3e23bbc1f428663ba6c0ce52731ea7bff381fcde1ea9198a1bd83ac26305b2", [:mix], [{:eunit_formatters, "~> 0.3.1", [hex: :eunit_formatters, repo: "hexpm", optional: false]}], "hexpm", "da776cf400b200992cc1e8240a608eb0969ec505cd4272a16d5f077c3d6922fb"},
+}
