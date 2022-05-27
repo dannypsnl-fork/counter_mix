@@ -22,7 +22,6 @@ defmodule Counter.MixProject do
   # Run "mix help compile.app" to learn about applications.
   def application() do
     [
-      applications: [],
       mod: {:counter_app, []},
       extra_applications: [:logger]
     ]
