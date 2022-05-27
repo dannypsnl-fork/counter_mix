@@ -23,7 +23,7 @@ defmodule Counter.MixProject do
   def application() do
     [
       applications: [],
-      mods: {:counter_app, []},
+      mod: {:counter_app, []},
       extra_applications: [:logger]
     ]
   end
